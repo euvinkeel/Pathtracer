@@ -6,7 +6,7 @@ Here's some renders this project can do:
 
 ![pathtracershowcase](https://github.com/euvinkeel/Pathtracer/assets/25259651/2c2bb972-0567-43ef-bca1-112da1f519f8)
 
-Originally, this repo started out as a skeleton raytracer for the UCSD course CSE 168 Computer Graphics II: Rendering. Most features (depth of field, reflection, multiple-importance-sampling, embree) were added by me. The inclusion of Embree was encouraged but optional, and I opted to implement it.
+Originally, this repo started out as a skeleton raytracer provided by TAs. Most features (depth of field, reflection, multiple-importance-sampling, embree) were added by me. The inclusion of Embree was encouraged but optional, and I opted to implement it.
 
 The original README is included as OldREADME.md, which had the original installation instructions.
 
